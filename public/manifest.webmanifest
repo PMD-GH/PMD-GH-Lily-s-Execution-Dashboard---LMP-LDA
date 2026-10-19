@@ -1,0 +1,16 @@
+{
+  "name": "Lily’s Execution Dashboard",
+  "short_name": "Lily’s",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F2EA",
+  "theme_color": "#493A35",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

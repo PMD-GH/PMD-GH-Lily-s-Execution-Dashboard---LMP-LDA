@@ -1,0 +1,18 @@
+LILY’S DASHBOARD — NO CODING NEEDED
+
+USE ON YOUR COMPUTER
+Download Lilys-Dashboard.html and double-click it to open it in Chrome, Edge or Firefox. Keep using the same file and browser. Your data stays in that browser. Use Settings > Export JSON regularly to keep a backup.
+
+GET A WEBSITE LINK
+1. Open https://app.netlify.com/drop
+2. Sign in or create a free Netlify account if asked.
+3. Unzip Lilys-Dashboard-Website.zip.
+4. Drag the extracted folder containing index.html onto the upload area.
+5. Netlify gives you your website link. Bookmark it.
+
+No build command, API key or coding is required. Hosting-provider terms and account requirements apply. This package has not yet been uploaded or published.
+
+FIRST VISIT
+Choose your planning start. Set your available minutes. Press Plan My Day and check off completed tasks. Your sample plan starts November 1, 2026, so tasks may not be due before then. Financial assumptions start disabled at zero.
+
+Data does not automatically transfer between the downloaded version and website, devices or browsers. Use Settings > Export JSON in the old version, then Import JSON in the new one.
